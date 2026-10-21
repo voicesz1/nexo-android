@@ -1,0 +1,15 @@
+.gradle/
+.gradle-local/
+.verify-classes/
+local.properties
+**/build/
+.idea/
+.kotlin/
+*.apk
+*.aab
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+foursquare-brasil/
